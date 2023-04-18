@@ -54,7 +54,7 @@ Service Provider | OCI Role | Self-attestation  | Audit
 [XATP](https://www.xatp.org/) | Digital Wallet | n/a |  pending
 [Legisym](https://legisym.com/) | Credential Issuer | n/a | pending -->
 
-Find the provided evidence documents in [this repository](/assets/).
+Find the provided evidence documents in [this repository](/proof/).
 ### ☆ Other
 Some service providers have shown commitment to the OCI framework through their contributions to this ecosystem, but have not yet participated in interoperability testing or attested OCI conformance.
 
