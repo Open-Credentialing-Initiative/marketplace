@@ -1,9 +1,9 @@
-name: publish spec
+name: publish pages
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   publish:
