@@ -1,4 +1,5 @@
-# Solution Provider Marketplace
+# Solution Provider Readiness
+Last update: April 2023
 
 ## This site
 ... is a supplementary page for OCI's showcase page of OCI-committed solution providers to provide you more details on the level of each service provider's OCI conformance. Please find the main page at [oc-i.org/marketplace](https://www.oc-i.org/marketplace).
@@ -29,8 +30,8 @@ Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ | ongoing |
 [Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ongoing |
 [Spherity](https://www.caro.vc/) | Digital Wallet |✅|ongoing|
-[XATP](https://www.xatp.org/) | Digital Wallet | ⛌ |ongoing|
-[Legisym](https://legisym.com/) | Credential Issuer | ⛌ | ⛌ | ✅
+[XATP](https://www.xatp.org/) | Digital Wallet | - |ongoing|
+[Legisym](https://legisym.com/) | Credential Issuer | n/a | n/a | ✅
 
 OCI works closely with HDA to keep this table up to date.
 
