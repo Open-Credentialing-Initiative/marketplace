@@ -23,12 +23,13 @@ Some service providers are not directly involved in the HDA-facilitated program 
 
 Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1.3 | Other Testing
 --- |--- | --- | --- | ---
+[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ongoing |
+[Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ongoing |
 [Movilitas.Cloud](https://www.movilitas.com/solutions/movilitas-cloud/)  | VRS |  ✅ | ongoing |
 [rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ongoing |
 [SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ongoing |
 [Systech](https://www.systechone.com/) | VRS | ✅ | ongoing |
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ | ongoing |
-[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ongoing |
 [Spherity](https://www.caro.vc/) | Digital Wallet |✅|ongoing|
 [XATP](https://www.xatp.org/) | Digital Wallet | - |ongoing|
 [Legisym](https://legisym.com/) | Credential Issuer | n/a | n/a | ✅
