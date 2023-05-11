@@ -19,10 +19,8 @@ The [Healthcare Distribution Alliance (HDA)](https://hda.org/) has been coordina
 - Phase 1.2: Testing of GS1 Lightweight Messaging Standard v1.2 implementation.
 - Phase 1.3: Testing of GS1 Lightweight Messaging Standard v1.3 implementation.
 
-Some service providers are not directly involved in the HDA-facilitated program and test their interoperability with other OCI-aligned service providers separately.
-
-Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1.3 | Other Testing
---- |--- | --- | --- | ---
+Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1.3
+--- |--- | --- | --- 
 [Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ongoing |
 [Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ongoing |
 [Movilitas.Cloud](https://www.movilitas.com/solutions/movilitas-cloud/)  | VRS |  ✅ | ongoing |
@@ -32,7 +30,7 @@ Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ | ongoing |
 [Spherity](https://www.caro.vc/) | Digital Wallet |✅|ongoing|
 [XATP](https://www.xatp.org/) | Digital Wallet | - |ongoing|
-[Legisym](https://legisym.com/) | Credential Issuer | n/a | n/a | ✅
+[Legisym](https://legisym.com/) | Credential Issuer | - | ongoing |
 
 OCI works closely with HDA to keep this table up to date.
 
