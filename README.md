@@ -1,5 +1,5 @@
 # Solution Provider Readiness
-Last update: May 2023
+Last update: August 2023
 
 ## This site
 ... is a supplementary page for OCI's showcase page of OCI-committed solution providers to provide you more details on the level of each service provider's OCI conformance. Please find the main page at [oc-i.org/marketplace](https://www.oc-i.org/marketplace).
@@ -14,25 +14,27 @@ OCI-committed service providers actively work towards or have achieved adherence
 
 Some service providers are ready to go! Others are preparing to test their interoperability and get OCI-conformant. Any of the service providers listed here can be **contacted directly** with inquiries about their DSCSA solutions.
 
-### ☆ Interoperability testing
-The [Healthcare Distribution Alliance (HDA)](https://hda.org/) has been coordinating a large-scale testing effort between VRS providers since summer 2022. This testing program includes two phases that cover OCI-specified credentials:
-- Phase 1.2: Testing of GS1 Lightweight Messaging Standard v1.2 implementation.
-- Phase 1.3: Testing of GS1 Lightweight Messaging Standard v1.3 implementation.
+### ☆ Service Interoperability
+Interoperability testing is happening on an ongoing basis between service providers through small- and large-scale testing efforts.
 
-Service Provider | OCI Role | HDA-facilitated Phase 1.2| HDA-facilitated Phase 1.3
+The [Healthcare Distribution Alliance (HDA)](https://hda.org/) has been coordinating a large-scale testing effort between VRS providers since summer 2022. This testing program included two phases and also addressed OCI specificatons:
+- Testing of GS1 Lightweight Messaging Standard v1.2 implementation.
+- Testing of GS1 Lightweight Messaging Standard v1.3 implementation.
+
+Service Provider | OCI Role | v1.2 Compatibility| 1.3 Compatibility
 --- |--- | --- | --- 
-[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ongoing |
-[Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ongoing |
-[Movilitas.Cloud](https://www.movilitas.com/solutions/movilitas-cloud/)  | VRS |  ✅ | ongoing |
-[rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ongoing |
-[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ongoing |
-[Systech](https://www.systechone.com/) | VRS | ✅ | ongoing |
-[TraceLink](https://www.tracelink.com/) | VRS | ✅ | ongoing |
-[Spherity](https://www.caro.vc/) | Digital Wallet |✅|ongoing|
-[XATP](https://www.xatp.org/) | Digital Wallet | - |ongoing|
-[Legisym](https://legisym.com/) | Credential Issuer | - | ongoing |
+[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ✅ |
+[Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ✅ |
+[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | ✅ |
+[rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ✅ |
+[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ✅ |
+[Systech](https://www.systechone.com/) | VRS | ✅ | ✅ |
+[TraceLink](https://www.tracelink.com/) | VRS | ✅ | ✅ |
+[Spherity](https://www.caro.vc/) | Digital Wallet |✅| ✅ |
+[XATP](https://www.xatp.org/) | Digital Wallet | - | ✅ |
+[Legisym](https://legisym.com/) | Credential Issuer | ✅ | ✅ |
 
-OCI works closely with HDA to keep this table up to date.
+OCI works closely with HDA to keep this table up to date. There may be VRS providers who collaborate through HDA-facilitated events and/or are aligned with OCI specifications but are not listed here.
 
 ### ☆ Proof of OCI conformance
 OCI requires **VRS providers** to submit a self-attestation asserting compliance with the [VRS Integration Conformance Criteria](https://open-credentialing-initiative.github.io/VRS-Conformance-Criteria/). 
@@ -46,7 +48,7 @@ See also [OCI’s conformance requirements](https://open-credentialing-initiativ
 
 Service Provider | OCI Role | Self-attestation  | Audit
 --- | --- | --- | ---
-[Movilitas.Cloud](https://www.movilitas.com/solutions/movilitas-cloud/)  | VRS |  ✅ | n/a
+[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a
 [Systech](https://www.systechone.com/) | VRS | ✅ | n/a
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
