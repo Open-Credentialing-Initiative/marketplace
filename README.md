@@ -21,7 +21,7 @@ The [Healthcare Distribution Alliance (HDA)](https://hda.org/) has been coordina
 - Testing of GS1 Lightweight Messaging Standard v1.2 implementation.
 - Testing of GS1 Lightweight Messaging Standard v1.3 implementation.
 
-Service Provider | OCI Role | v1.2 Compatibility| 1.3 Compatibility
+Service Provider | OCI Role | v1.2 Compatibility| v1.3 Compatibility
 --- |--- | --- | --- 
 [Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ✅ |
 [Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ✅ |
@@ -46,10 +46,10 @@ OCI requires **Credential Issuers** and **Digital Wallet providers** to undergo 
 See also [OCI’s conformance requirements](https://open-credentialing-initiative.github.io/Conformance-Program/). 
 
 
-Service Provider | OCI Role | Self-attestation  | Audit
---- | --- | --- | ---
-[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a
-[Systech](https://www.systechone.com/) | VRS | ✅ | n/a
+Service Provider | OCI Role | Self-attestation  | Audit | Evidence
+--- | --- | --- | --- | ---
+[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud)
+[Systech](https://www.systechone.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech)
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
 ### ☆ Other
