@@ -30,8 +30,8 @@ Service Provider | OCI Role | v1.2 Compatibility| v1.3 Compatibility
 [rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ✅ |
 [SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ✅ |
 [Systech](https://www.systechone.com/) | VRS | ✅ | ✅ |
-[TrackTraceRX](https://www.tracktracerx.com/) | VRS | - | ✅ |
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ | ✅ |
+[TrackTraceRX](https://www.tracktracerx.com/) | VRS | - | ✅ |
 [Spherity](https://www.caro.vc/) | Digital Wallet |✅| ✅ |
 [XATP](https://www.xatp.org/) | Digital Wallet | - | ✅ |
 [Legisym](https://legisym.com/) | Credential Issuer | ✅ | ✅ |
