@@ -26,7 +26,7 @@ Service Provider | OCI Role | v1.2 Compatibility| v1.3 Compatibility
 [Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ✅ |
 [Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ✅ |
 [Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | ✅ |
-[Optel](https://www.optelgroup.com/en/) | VRS | - | ✅ |
+[Optel Group](https://www.optelgroup.com/en/) | VRS | - | ✅ |
 [rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ✅ |
 [SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ✅ |
 [Systech](https://www.systechone.com/) | VRS | ✅ | ✅ |
@@ -52,6 +52,7 @@ Service Provider | OCI Role | Self-attestation  | Audit | Evidence
 --- | --- | --- | --- | ---
 [Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud)
 [Systech](https://www.systechone.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech)
+[Optel Group](https://www.optelgroup.com/en/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel-Group)
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
 ### ☆ Other
