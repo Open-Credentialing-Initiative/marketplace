@@ -1,5 +1,5 @@
 # Solution Provider Readiness
-Last update: August 2023
+Last update: September 2023
 
 ## This site
 ... is a supplementary page for OCI's showcase page of OCI-committed solution providers to provide you more details on the level of each service provider's OCI conformance. Please find the main page at [oc-i.org/marketplace](https://www.oc-i.org/marketplace).
