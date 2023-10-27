@@ -20,6 +20,7 @@ Interoperability testing is happening on an ongoing basis between service provid
 The [Healthcare Distribution Alliance (HDA)](https://hda.org/) has been coordinating a large-scale testing effort between VRS providers since summer 2022. This testing program included two phases and also addressed OCI specificatons:
 - Testing of GS1 Lightweight Messaging Standard v1.2 implementation.
 - Testing of GS1 Lightweight Messaging Standard v1.3 implementation.
+
 Since then other Service Providers have also cut over from v1.2 to v1.3. Note that there is no backward compatibility following this particular verion upgrade.
 
 Service Provider | OCI Role | v1.2 Compatibility| v1.3 Compatibility
