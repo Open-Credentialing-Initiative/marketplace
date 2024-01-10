@@ -55,6 +55,7 @@ Service Provider | OCI Role | Self-attestation  | Audit | Evidence
 [Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud)
 [Optel Group](https://www.optelgroup.com/en/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel%20Group)
 [Systech](https://www.systechone.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech)
+[TraceLink](https://www.tracelink.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/TraceLink)
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
 ### ☆ Other
