@@ -1,6 +1,6 @@
 _Last update: January 2024_
 
-OCI is an open initiative enabling trusted digital interactions in between Authorized Trading Partners (ATPs) in the U.S. pharmaceutical supply chain to meet the requirements of the U.S. Drug Supply Chain Security Act (DSCSA). (For more information about the DSCSA and verification, consult [FDA's website]([url](https://www.fda.gov/drugs/drug-supply-chain-security-act-dscsa/what-do-i-need-know-about-supply-chain-security-requirements-under-drug-supply-chain-security-act#Respond)).) Our members work together to deliver secure credentialing over networks, APIs, and other secure channels. This page provides you with details on the level of each service provider's OCI conformance.
+OCI is an open initiative enabling trusted digital interactions between Authorized Trading Partners (ATPs) in the U.S. pharmaceutical supply chain to meet the requirements of the U.S. Drug Supply Chain Security Act (DSCSA). (For more information about the DSCSA and verification, consult [FDA's website]([url](https://www.fda.gov/drugs/drug-supply-chain-security-act-dscsa/what-do-i-need-know-about-supply-chain-security-requirements-under-drug-supply-chain-security-act#Respond)).) Our members work together to deliver secure credentialing over networks, APIs, and other secure channels. This page provides you with details on the level of each service provider's OCI conformance.
 
 >Please note that we do not display a comprehensive range of each listed service provider's commercial offering. OCI is only concerned with these companies' relationship to OCI's framework. Thus, listed providers are identified by their role within OCI's framework or, in the case of outsourcing providers, a term that aims to encompass their OCI-related offering only. **We encourage you to research which service provider addresses your needs best.**
 
@@ -27,7 +27,7 @@ Service Provider | OCI Role | Compatibility
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ |
 [TrackTraceRX](https://www.tracktracerx.com/) | VRS | ✅ |
 [Spherity](https://www.caro.vc/) | Digital Wallet | ✅ |
-[XATP](https://www.xatp.org/) | Digital Wallet | ✅ |
+[XATP (LedgerDomain)](https://www.xatp.org/) | Digital Wallet | ✅ |
 [Legisym](https://legisym.com/) | Credential Issuer | ✅ |
 
 OCI works closely with HDA to keep this table up to date. There may be VRS providers who collaborate through HDA-facilitated events and/or are aligned with OCI specifications but are not listed here.
