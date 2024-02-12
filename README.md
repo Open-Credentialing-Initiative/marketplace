@@ -15,22 +15,22 @@ The Verification Router Service (VRS) is a network designed to pass verification
 OCI-committed service providers actively work towards or have achieved adherence to [OCI’s conformance requirements](https://open-credentialing-initiative.github.io/Conformance-Program/). Some service providers are ready to go! Others are preparing to test their interoperability and get OCI-conformant. Any of the service providers listed here can be **contacted directly** with inquiries about their DSCSA solutions.
 
 ### ☆ HDA VRS Working Group
-Interoperability is achieved between service providers through small- and large-scale efforts coordinated by the [Healthcare Distribution Alliance (HDA)](https://hda.org/) VRS Working Group. Currently, a wide range of solution providers have upgraded to the GS1 Lightweight Messaging Standard v1.3 implementation and have successfully tested their ATP Verifiable Credential integrations.
+Interoperability is achieved between service providers through small- and large-scale efforts coordinated by the [Healthcare Distribution Alliance (HDA)](https://hda.org/) VRS Working Group. The first integration efforts began on the GS1 Lightweight Messaging Standard v1.2 in summer 2022. Currently, a wide range of solution providers have since upgraded to the GS1 Lightweight Messaging Standard v1.3 implementation and have successfully tested their ATP Verifiable Credential integrations.
 
-Service Provider | OCI Role | Compatibility
---- |--- | ---
-[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ |
-[Jekson Vision](https://jeksonvision.com) | VRS | ✅ |
-[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ |
-[Optel Group](https://www.optelgroup.com/en/) | VRS | ✅ |
-[rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ |
-[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ |
-[Systech](https://www.systechone.com/) | VRS | ✅ |
-[TraceLink](https://www.tracelink.com/) | VRS | ✅ |
-[TrackTraceRX](https://www.tracktracerx.com/) | VRS | ✅ |
-[Spherity](https://www.caro.vc/) | Digital Wallet | ✅ |
-[XATP (LedgerDomain)](https://www.xatp.org/) | Digital Wallet | ✅ |
-[Legisym](https://legisym.com/) | Credential Issuer | ✅ |
+Service Provider | OCI Role | v1.2 Testing | v1.3 Testing
+--- |--- | --- | ---
+[Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ✅ |
+[Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ✅ |
+[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | ✅ |
+[Optel Group](https://www.optelgroup.com/en/) | VRS | N/A | ✅ |
+[rfxcel](https://rfxcel.com/) ([Antares Vision Group](https://www.antaresvisiongroup.com/))  | VRS | ✅ | ✅ |
+[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | ✅ | ✅ |
+[Systech](https://www.systechone.com/) | VRS | ✅ | ✅ |
+[TraceLink](https://www.tracelink.com/) | VRS | ✅ | ✅ |
+[TrackTraceRX](https://www.tracktracerx.com/) | VRS | N/A | ✅ |
+[Spherity](https://www.caro.vc/) | Digital Wallet | ✅ | ✅ |
+[XATP (LedgerDomain)](https://www.xatp.org/) | Digital Wallet | N/A | ✅ |
+[Legisym](https://legisym.com/) | Credential Issuer | ✅ | ✅ |
 
 OCI works closely with HDA to keep this table up to date. There may be VRS providers who collaborate through HDA-facilitated events and/or are aligned with OCI specifications but are not listed here.
 
