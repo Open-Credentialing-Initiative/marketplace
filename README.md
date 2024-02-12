@@ -15,9 +15,9 @@ The Verification Router Service (VRS) is a network designed to pass verification
 OCI-committed service providers actively work towards or have achieved adherence to [OCI’s conformance requirements](https://open-credentialing-initiative.github.io/Conformance-Program/). Some service providers are ready to go! Others are preparing to test their interoperability and get OCI-conformant. Any of the service providers listed here can be **contacted directly** with inquiries about their DSCSA solutions.
 
 ### ☆ HDA VRS Working Group
-Interoperability is achieved between service providers through small- and large-scale efforts coordinated by the [Healthcare Distribution Alliance (HDA)](https://hda.org/) VRS Working Group. The first integration efforts began on the GS1 Lightweight Messaging Standard v1.2 in summer 2022. Currently, a wide range of solution providers have since upgraded to the GS1 Lightweight Messaging Standard v1.3 implementation and have successfully tested their ATP Verifiable Credential integrations.
+Interoperability is achieved between service providers through small- and large-scale efforts coordinated by the [Healthcare Distribution Alliance (HDA)](https://hda.org/) VRS Working Group. The first integration efforts began on the GS1 Lightweight Messaging Standard (LVMS) v1.2 in summer 2022. Currently, a wide range of solution providers have since upgraded to the GS1 LVMS v1.3 implementation and have successfully tested their ATP Verifiable Credential integrations; LVMS v1.2 has been deprecated.
 
-Service Provider | OCI Role | v1.2 Testing | v1.3 Testing
+Service Provider | OCI Role | v1.2 Tested | v1.3 Tested
 --- |--- | --- | ---
 [Gateway Checker](https://gatewaychecker.com/) | VRS | ✅ | ✅ |
 [Jekson Vision](https://jeksonvision.com) | VRS | ✅ | ✅ |
