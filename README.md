@@ -43,7 +43,7 @@ OCI requires **Credential Issuers** and **Digital Wallet providers** to undergo 
 
 See also [OCI’s conformance requirements](https://open-credentialing-initiative.github.io/Conformance-Program/). 
 
-Service Provider | OCI Role | Audit | Signed Self-attestation | Statement
+Service Provider | OCI Role | Audit | Signed Self-Attestation | Statement
 --- | --- | --- | --- | ---
 [Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud) | N/A
 [Optel Group](https://www.optelgroup.com/en/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel%20Group) | N/A
@@ -59,7 +59,7 @@ Some solution providers do not need to undergo testing or conformance attestatio
 
 Service Provider | OCI-related Service | Preparation for Testing and Conformance | Integration Partnerships
 --- |--- | --- | ---
-[RxScan](https://www.rxscan.com/dscsa-track-trace/) | DSCSA Compliance | n/a | ✅  
-[Trust.med](https://trust.med/) | DSCSA Compliance | n/a |  ✅
+[RxScan](https://www.rxscan.com/dscsa-track-trace/) | DSCSA Compliance | N/A | ✅  
+[Trust.med](https://trust.med/) | DSCSA Compliance | N/A |  ✅
 
 
