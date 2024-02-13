@@ -1,4 +1,4 @@
-_Last update: January 2024_
+_Last update: February 2024_
 
 OCI is an open initiative enabling trusted digital interactions between Authorized Trading Partners (ATPs) in the U.S. pharmaceutical supply chain to meet the requirements of the U.S. Drug Supply Chain Security Act (DSCSA). (For more information about the DSCSA and verification, consult [FDA's website]([url](https://www.fda.gov/drugs/drug-supply-chain-security-act-dscsa/what-do-i-need-know-about-supply-chain-security-requirements-under-drug-supply-chain-security-act#Respond)).) Our members work together to deliver secure credentialing over networks, APIs, and other secure channels. This page provides you with details on the level of each service provider's OCI conformance. Please find the main page at [oc-i.org/marketplace](https://oc-i.org/marketplace).
 
@@ -43,18 +43,19 @@ OCI requires **Credential Issuers** and **Digital Wallet providers** to undergo 
 
 See also [OCI’s conformance requirements](https://open-credentialing-initiative.github.io/Conformance-Program/). 
 
-Service Provider | OCI Role | Self-attestation  | Audit | Evidence
+Service Provider | OCI Role | Audit | Signed Self-attestation | Statement
 --- | --- | --- | --- | ---
-[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS |  ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud)
-[Optel Group](https://www.optelgroup.com/en/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel%20Group)
-[Systech](https://www.systechone.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech)
-[TraceLink](https://www.tracelink.com/) | VRS | ✅ | n/a | [proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/TraceLink)
+[Movilitas.Cloud](https://www.indx.com/en/product/movilitas-cloud)  | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Movilitas.Cloud) | N/A
+[Optel Group](https://www.optelgroup.com/en/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel%20Group) | N/A
+[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | N/A | Not Provided | [Reference](https://help.sap.com/docs/SAP_INFO_HUB_FOR_LIFE_SCIENCES_US_DRUG_SUPPLY_SECURITY?locale=en-US)
+[Systech](https://www.systechone.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech) | N/A
+[TraceLink](https://www.tracelink.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/TraceLink) | N/A
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
 ### ☆ Other
 Some service providers have shown commitment to the OCI framework through their contributions to this ecosystem, but have not yet participated in interoperability testing or attested OCI conformance.
 
-Some solution providers do not need to undergo testing or conformance attestation because they outsource the needed key functions to OCI-aligned service providers through **close partnerships**.
+Some solution providers do not need to undergo testing or conformance attestation because they outsource the needed key functions to OCI-conformant service providers through **close partnerships**.
 
 Service Provider | OCI-related Service | Preparation for Testing and Conformance | Integration Partnerships
 --- |--- | --- | ---
