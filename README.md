@@ -51,7 +51,7 @@ Service Provider | OCI Role | OCI Audit | OCI Signed Self-Attestation | Alternat
 [Systech](https://www.systechone.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech) | N/A
 [TraceLink](https://www.tracelink.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/TraceLink) | N/A
  |  |  |  | 
-[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | N/A | Not Provided | [Reference](https://help.sap.com/docs/SAP_INFO_HUB_FOR_LIFE_SCIENCES_US_DRUG_SUPPLY_SECURITY?locale=en-US)
+[SAP](https://www.sap.com/industries/life-sciences.html) | VRS | N/A | Not Provided | [Reference](https://help.sap.com/docs/SAP_INFO_HUB_FOR_LIFE_SCIENCES_US_DRUG_SUPPLY_SECURITY?locale=en-US) (requires log-in)
 
 Find the provided evidence documents in [this repository](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof).
 ### ☆ Integration Partnerships
