@@ -28,8 +28,8 @@ Service Provider | OCI Role | R1.2 Tested | R1.3 Tested
 [Systech](https://www.systechone.com/) | VRS | ✅ | ✅ |
 [TraceLink](https://www.tracelink.com/) | VRS | ✅ | ✅ |
 [TrackTraceRX](https://www.tracktracerx.com/) | VRS | N/A | ✅ |
+[LedgerDomain](https://www.xatp.org/) | Digital Wallet | N/A | ✅ |
 [Spherity](https://www.caro.vc/) | Digital Wallet | ✅ | ✅ |
-[XATP (LedgerDomain)](https://www.xatp.org/) | Digital Wallet | N/A | ✅ |
 [Legisym](https://legisym.com/) | Credential Issuer | ✅ | ✅ |
 
 OCI works closely with HDA to keep this table up to date. There may be VRS providers who collaborate through HDA-facilitated events and/or are aligned with OCI specifications but are not listed here.
@@ -50,6 +50,9 @@ Service Provider | OCI Role | OCI Audit | OCI Signed Self-Attestation | Alternat
 [Optel Group](https://www.optelgroup.com/en/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Optel%20Group) | N/A
 [Systech](https://www.systechone.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Systech) | N/A
 [TraceLink](https://www.tracelink.com/) | VRS | N/A | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/TraceLink) | N/A
+[LedgerDomain](https://www.xatp.org/) | Digital Wallet | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/LedgerDomain) | N/A | N/A |
+[Spherity](https://www.caro.vc/) | Digital Wallet | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Spherity) | N/A | N/A |
+[Legisym](https://legisym.com/) | Credential Issuer | [Proof](https://github.com/Open-Credentialing-Initiative/marketplace/tree/main/proof/Legisym) | N/A | N/A |
  |  |  |  | 
 [SAP](https://www.sap.com/industries/life-sciences.html) | VRS | N/A | Not Provided | [Reference](https://help.sap.com/docs/SAP_INFO_HUB_FOR_LIFE_SCIENCES_US_DRUG_SUPPLY_SECURITY?locale=en-US) (requires log-in)
 
