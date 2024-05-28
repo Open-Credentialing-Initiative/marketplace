@@ -38,7 +38,7 @@ OCI works closely with HDA to keep this table up to date. There may be VRS provi
 To be considered **OCI-conformant**, OCI requires **VRS providers** to submit a signed self-attestation asserting compliance with the [VRS Integration Conformance Criteria](https://open-credentialing-initiative.github.io/VRS-Conformance-Criteria/). 
 
 - Find blank OCI forms on our [main site](https://www.oc-i.org/forms).
-- Shoud a VRS provider choose not to submit a signed self-attestation but a credible alternative statement, we appreciate this and consider this provider **OCI-aligned**.
+- Should a VRS provider choose not to submit a signed self-attestation but a credible alternative statement, we appreciate this and consider this provider **OCI-aligned**.
 
 To be considered **OCI-conformant**, OCI requires **Credential Issuers** and **Digital Wallet providers** to undergo a formal 3rd-party audit to assert compliance with the [Credential Issuer](https://open-credentialing-initiative.github.io/Credential-Issuer-Conformance-Criteria/) and [Digital Wallet Conformance Criteria](https://open-credentialing-initiative.github.io/Digital-Wallet-Conformance-Criteria/latest), respectively. An alternaive means is not permitted.
 
